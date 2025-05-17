@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width=100 align="center" width="100%"/>  Arquitetura Angular
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width=100 align="center"/>  Arquitetura Angular
 
 <br/>
 
