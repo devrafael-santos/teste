@@ -1,6 +1,6 @@
 <br>
 
-# <img src="https://images.seeklogo.com/logo-png/50/2/angular-icon-logo-png_seeklogo-507324.png" width=100 align="center" width="100%"/>  Arquitetura Angular
+<img align="center" alt="Nick-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> Arquitetura Angular
 
 <br/>
 
